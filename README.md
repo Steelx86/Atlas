@@ -1,3 +1,3 @@
-# An Interactive planet viewer and generator
+# Atlas
 
 
